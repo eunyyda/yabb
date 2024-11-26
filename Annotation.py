@@ -87,3 +87,6 @@ if __name__ == "__main__":
     elif ext == 'png':
         segment_image(PathNames + "//000000000285.png")
 
+
+
+print("Hello World")
